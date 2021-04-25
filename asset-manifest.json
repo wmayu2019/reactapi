@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactapi/static/css/main.70252f69.chunk.css",
+    "main.js": "/reactapi/static/js/main.0d0b180c.chunk.js",
+    "main.js.map": "/reactapi/static/js/main.0d0b180c.chunk.js.map",
+    "runtime-main.js": "/reactapi/static/js/runtime-main.8598bb5d.js",
+    "runtime-main.js.map": "/reactapi/static/js/runtime-main.8598bb5d.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/reactapi/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ebd32d17.chunk.js": "/reactapi/static/js/2.ebd32d17.chunk.js",
+    "static/js/2.ebd32d17.chunk.js.map": "/reactapi/static/js/2.ebd32d17.chunk.js.map",
+    "index.html": "/reactapi/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/reactapi/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.70252f69.chunk.css.map": "/reactapi/static/css/main.70252f69.chunk.css.map",
+    "static/js/2.ebd32d17.chunk.js.LICENSE.txt": "/reactapi/static/js/2.ebd32d17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8598bb5d.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ebd32d17.chunk.js",
+    "static/css/main.70252f69.chunk.css",
+    "static/js/main.0d0b180c.chunk.js"
+  ]
+}
